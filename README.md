@@ -1,8 +1,3 @@
-# quran-audiobook
-Here's a README file for your GitHub repository:
-
----
-
 # Quran-Audiobook
 
 ## Overview
@@ -70,6 +65,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **React**: For the front-end framework.
 - **Spotify**: For audio streaming.
 
----
-
-Feel free to customize this README further based on your specific needs and details.
